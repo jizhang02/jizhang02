@@ -23,8 +23,6 @@
 <a href="https://www.microsoft.com" target="_blank"> <img align="left" alt="Windows" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg"> </a>
 
 <br>
-<br>
-
 
 [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jizhang02&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jizhang02&layout=compact)](https://github.com/jizhang02/github-readme-stats)
