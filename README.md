@@ -21,9 +21,10 @@
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"> </a>
 <a href="https://www.microsoft.com" target="_blank"> <img align="left" alt="Windows" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg"> </a>
-
 <br>
-
+<br>
+<br>
+<br>
 [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jizhang02&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jizhang02&layout=compact)](https://github.com/jizhang02/github-readme-stats)
 
