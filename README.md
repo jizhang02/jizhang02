@@ -7,11 +7,10 @@
   
   #### 📫 How to reach me:
   
-  [<img src="https://img.icons8.com/ios/50/twitterx--v2.png" width="3.5%"/>](https://twitter.com/Jing_Zhang92)  &nbsp;
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/zhangjingcn/)  &nbsp;
-  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/jing92zhang/)  &nbsp;
-  [<img src="https://img.icons8.com/external-justicon-lineal-justicon/64/external-blog-graphic-design-justicon-lineal-justicon.png" width="3.5%"/>](https://jizhang02.github.io/)  &nbsp;
-  <a href="mailto:jing3jour@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> 
+ [<img src="https://img.icons8.com/?size=100&id=447&format=png&color=000000" width="3.5%"/>](https://www.linkedin.com/in/zhangjingcn/)  &nbsp;
+ [<img src="https://img.icons8.com/?size=100&id=fit0Yno9QN4U&format=png&color=FA5252" width="3.5%"/>](https://www.xiaohongshu.com/user/profile/5d8a89c70000000001000a92)  &nbsp;
+ [<img src="https://img.icons8.com/ios/50/twitterx--v2.png" width="3.5%"/>](https://twitter.com/Jing_Zhang92) &nbsp;
+ <a href="mailto:zhangjingnm@hotmail.com"><img src="https://img.icons8.com/?size=100&id=12580&format=png&color=000000" width="3.5%"/>
 
 
   ####  Languages and Tools 
