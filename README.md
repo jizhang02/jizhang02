@@ -3,7 +3,7 @@
  
   -  👋 Hi, I’m Jing Zhang(張 晶).
   - 👀 I’m interested in medical image analysis.
-  - 🌱 I’m currently working in LaTIM lab as a post-doc.
+  - 🌱 I’m currently working in LIB lab as a post-doc.
   
   #### 📫 How to reach me:
   
@@ -24,8 +24,6 @@
 <br>
 <br>
 <br>
-[![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jizhang02&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jizhang02&layout=compact)](https://github.com/jizhang02/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=jizhang02&label=Profile%20Visits&color=blue&style=for-the-badge)
