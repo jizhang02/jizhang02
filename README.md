@@ -1,5 +1,5 @@
    ### 🌏你好-Bonjour-Hello 
-</a> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc0YWRrcWFkY3EyeTQwYzVybWNrNjV0M2ppNm01cTcwNDZ0YXFlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QyJ0We4GHpjBa7PvKL/giphy.gif" alt="side G[...]
+</a> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc0YWRrcWFkY3EyeTQwYzVybWNrNjV0M2ppNm01cTcwNDZ0YXFlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QyJ0We4GHpjBa7PvKL/giphy.gif" alt="sid[...]
  
   -  👋 Hi, I'm Jing Zhang(張 晶).
   - 👀 I'm interested in medical image analysis.
@@ -14,14 +14,12 @@
 
   ####  Languages and Tools 
 
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"></a>
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VSCode" height="42px" src="./assets/vscode_icon.svg"></a>
-<a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></a>
-<a href="https://www.microsoft.com" target="_blank"> <img align="left" alt="Windows" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg"></a>
-<a href="https://platform.openai.com/docs/guides/gpt-best-practices" target="_blank"> <img align="left" alt="OpenAI GPT" height="42px" src="https://avatars.githubusercontent.com/u/14957082?s=280&v=4"></a>
-
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="py[...]
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.[...]
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square[...]
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="./assets/vscode_icon.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d[...]
+<a href="https://www.microsoft.com" target="_blank"> <img align="left" alt="Windows" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg"> </a>
 <br>
 <br>
 <br>
