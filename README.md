@@ -21,7 +21,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></a>
 <a href="https://www.microsoft.com" target="_blank"> <img align="left" alt="Windows" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg"></a>
 <a href="https://platform.openai.com/docs/guides/gpt-best-practices" target="_blank"> <img align="left" alt="OpenAI GPT" height="42px" src="https://avatars.githubusercontent.com/u/14957082?s=280&v=4"></a>
-<a href="https://cloud.google.com/vertex-ai" target="_blank"> <img align="left" alt="Google Vertex AI" height="42px" src="https://www.gstatic.com/devrel-devsite/prod/v2210deb9920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef/cloud/images/favicons/onecloud/super_cloud.png"></a>
+
 <br>
 <br>
 <br>
