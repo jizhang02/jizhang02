@@ -8,7 +8,6 @@
   #### 📫 How to reach me:
   
  [<img src="https://img.icons8.com/?size=100&id=447&format=png&color=000000" width="3.5%"/>](https://www.linkedin.com/in/zhangjingcn/)  &nbsp;
- [<img src="https://img.icons8.com/?size=100&id=fit0Yno9QN4U&format=png&color=FA5252" width="3.5%"/>](https://www.xiaohongshu.com/user/profile/5d8a89c70000000001000a92)  &nbsp;
  <a href="mailto:zhangjingnm@hotmail.com"><img src="https://img.icons8.com/?size=100&id=12580&format=png&color=000000" width="3.5%"/>
 
 
