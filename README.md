@@ -21,9 +21,6 @@
 <a href="https://www.microsoft.com" target="_blank"> <img align="left" alt="Windows" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg"> </a>
 <a href="https://openai.com" target="_blank">  <img align="left" alt="OpenAI" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/6/66/OpenAI_logo_2025_%28symbol%29.svg"></a>
 <br>
-<br>
-<br>
-<br>
 
 <!---
 ![](https://komarev.com/ghpvc/?username=jizhang02&label=Profile%20Visits&color=blue&style=for-the-badge)
