@@ -25,9 +25,9 @@
 <br>
 <br>
 
-
+<!---
 ![](https://komarev.com/ghpvc/?username=jizhang02&label=Profile%20Visits&color=blue&style=for-the-badge)
-
+--->
 <!---
 - 👋 Hi, I’m @jizhang02
 - 👀 I’m interested in Medical image analysis.
